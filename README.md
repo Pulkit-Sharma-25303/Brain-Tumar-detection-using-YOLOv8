@@ -3,7 +3,7 @@ This repository contains the implementation of a Brain Tumor Detection model usi
 # Overview
 Brain tumors are abnormal growths of tissue in the brain that can be life-threatening. Early detection plays a crucial role in the treatment and prognosis of patients. This project leverages YOLOv8, a state-of-the-art object detection model, to automatically identify brain tumors in MRI images.
 # Features
-Detection and localization of brain tumors in MRI images.
-High-speed inference using the YOLOv8 model.
-User-friendly interface for medical professionals to interact with the model.
-Extendable for other medical image detection tasks.
+* Detection and localization of brain tumors in MRI images.
+* High-speed inference using the YOLOv8 model.
+* User-friendly interface for medical professionals to interact with the model.
+* Extendable for other medical image detection tasks.
